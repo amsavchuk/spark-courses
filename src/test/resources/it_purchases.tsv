@@ -1,0 +1,5 @@
+purchaseId	purchaseTime	billingCost	isConfirmed
+p1	2019-01-10 0:01:05	1000.5	TRUE
+p2	2019-01-10 0:05:05	130	TRUE
+p3	2019-01-11 18:03:10	205	TRUE
+p4	2019-01-12 12:12:15	30	FALSE

@@ -1,0 +1,22 @@
+userId	eventId	eventTime	eventType	attributes
+u1	u1_e1	2018-12-12 1:00:00	app_open	{"campaign_id": "cmp1",  "channel_id": "Facebook Ads"}
+u1	u1_e7	2018-12-12 1:02:00	app_close
+u1	u1_e1	2018-12-12 2:00:00	app_open	{"campaign_id": "cmp1",  "channel_id": "Facebook Ads"}
+u1	u1_e7	2018-12-12 2:02:00	app_close
+u1	u1_e1	2019-01-01 0:00:00	app_open	{"campaign_id": "cmp1",  "channel_id": "Google Ads"}
+u1	u1_e2	2019-01-01 0:00:05	search_product
+u1	u1_e3	2019-01-01 0:00:10	search_product
+u1	u1_e4	2019-01-01 0:00:15	search_product
+u1	u1_e5	2019-01-01 0:00:20	view_product_details
+u1	u1_e6	2019-01-01 0:01:05	purchase	{"purchase_id": "p1"}
+u1	u1_e5	2019-01-01 0:01:20	view_product_details
+u1	u1_e6	2019-01-01 0:05:05	purchase	{"purchase_id": "p2"}
+u1	u1_e7	2019-01-01 0:06:00	app_close
+u2	u2_e1	2019-01-11 18:03:00	app_open	{"campaign_id": "cmp2",  "channel_id": "Yandex Ads"}
+u2	u2_e2	2019-01-11 18:03:03	search_product
+u2	u2_e3	2019-01-11 18:03:04	view_product_details
+u2	u2_e4	2019-01-11 18:03:10	purchase	{"purchase_id": "p3"}
+u2	u2_e2	2019-01-12 11:00:03	search_product
+u2	u2_e3	2019-01-12 11:01:00	view_product_details
+u2	u2_e4	2019-01-12 12:12:15	purchase	{"purchase_id": "p4"}
+u2	u2_e5	2019-01-12 12:13:00	app_close
